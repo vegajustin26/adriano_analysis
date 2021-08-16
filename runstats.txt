@@ -1,0 +1,68 @@
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+988 |proton|120GeV| 1302 |  274 |   0 |    228 |  0.0| 54.0V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+991 |proton|120GeV| 1302 |  274 |   0 |    940 |  0.0| 54.0V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+992 |proton|120GeV| 1302 |  274 |   0 |    473 |  0.0| 54.0V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+993 |proton|120GeV| 1302 |  274 |   0 |    457 |  0.0| 54.0V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+996 |proton|120GeV| 1302 |  274 |   0 |    232 |  0.0| 54.0V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+997 |proton|120GeV| 1302 |  274 |   0 |   1603 |  0.0| 54.0V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+999 |proton|120GeV| 1302 |  274 |   0 |   1152 |  0.0| 54.0V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1003 |proton|120GeV| 1302 |  274 |   0 |    239 |  0.0| 54.0V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1004 |proton|120GeV| 1302 |  274 |   0 |    717 |  0.0| 54.0V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1007 |proton|120GeV| 1302 |  274 |   0 |    718 |  0.0| 54.0V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1009 |proton|120GeV| 1302 |  274 |   0 |   3597 |  0.0| 54.0V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1014 |proton|120GeV| 1302 |  274 |   0 |  11271 |  0.0| 54.0V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1015 |proton|120GeV| 1302 |  274 |   0 |    705 |  0.0| 54.0V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1017 |proton|120GeV| 1302 |  274 |   0 |   1161 |  0.0| 54.4V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1018 |proton|120GeV| 1302 |  274 |   0 |   4172 |  0.0| 54.4V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1020 |proton|120GeV| 1302 |  274 |   0 |   4371 |  0.0| 54.4V|   80K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1021 |proton|120GeV| 1302 |  274 |   0 |  30975 |  0.0| 54.4V|   80K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1023 |proton|120GeV| 1322 |  274 |   0 |  23071 |  0.0| 54.4V|   80K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1025 |proton|120GeV| 1314 |  286 |   0 |  60532 |  0.0| 54.4V|   80K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1035 |proton|120GeV| 1302 |  249 |   0 |  19468 |  0.0| 54.4V|   80K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1037 |proton|120GeV| 1302 |  249 |   0 |  24791 |  0.0| 54.4V|   80K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1063 |proton|120GeV| 1188 |  274 | -90 |   7469 |  0.0| 54.4V|   60K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1066 |proton|120GeV| 1143 |  286 | -90 |   8567 |  0.0| 54.4V|   60K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1067 |proton|120GeV| 1143 |  286 | -90 |   4726 |  0.0| 54.4V|   60K| 910  | 910 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1068 |proton|120GeV| 1143 |  286 | -90 |   5249 |  0.0| 54.4V|   60K| 950  | 950 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1069 |proton|120GeV| 1143 |  286 | -90 |   6910 |  0.0| 54.4V|   60K| 1000  | 1000 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1070 |proton|120GeV| 1143 |  286 | -90 |   8641 |  0.0| 54.4V|   60K| 1200  | 1200 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1071 |proton|120GeV| 1143 |  286 | -90 |   8643 |  0.0| 54.4V|   60K| 1400  | 1400 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1089 |proton|120GeV| 1305 |  276 |   0 |   8503 |  0.0| 54.4V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1090 |proton|120GeV| 1305 |  276 |   0 |   3465 |  0.0| 54.4V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1091 |proton|120GeV| 1305 |  276 |   0 |    826 |  0.0| 54.4V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1092 |proton|120GeV| 1305 |  276 |   0 |   1621 |  0.0| 54.4V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1093 |proton|120GeV| 1305 |  276 |   0 |   1925 |  0.0| 54.4V|   50K| 900  | 900 
+Run | beam |Energy|   X  |   Z  |Angle| NEvents| psia| BiasV| counts| gain1| gain2
+1111 |proton|120GeV| 1300 |  276 |   0 | 129082 |  0.0| 54.4V|  100K| 900  | 900 

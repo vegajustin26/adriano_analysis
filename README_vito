@@ -1,0 +1,22 @@
+The output ROOT file of the analysis SignalIntegralFEBV2_<dataset>_<subdataset>.root has a folder for each run.
+Each folder has several TNtuples.
+The TNtuple ADRIANOParam is different from others.
+This has a list of parameters that are obtained from configurations in AnalysisIntegralFEBV2.C macro or from the data filename.
+This TNtuple also has a map of channels that can be useful in case not all channels are selected for the analysis.
+In his TNtuple the content of ch# is the actual channel represented by ch#.
+
+Other TNtuples elements are ch# and evt.
+evt is the event index, while ch# has the value of the parameter represented by the TNtuple for the given channel.
+
+TNtuples description:
+ADRIANOAmp provides the peak amplitude
+ADRIANOTimeAmp provides the time corresponding to the peak amplitude
+  this can indicate if the peak is in the expected time region
+ADRIANOIntegral provides the integral of the signal
+  this can indicate if the peak belongs to a good signal, or if the peak is just an electronic spike
+ADRIANOPed provides the pedestal level, this is evaluated taking into account initial bins of the signal waveform
+  this indicates what is the baseline level to subtract to the signal amplitude to get the real amplitude
+ADRIANOPedSigma provides the sigma of the pedestal distribution
+  if the baseline signal is stable, this sigma should be very small
+ADRIANOFitCheck is used to provide a binary mask for a list of check for each channel.
+

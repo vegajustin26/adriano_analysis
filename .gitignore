@@ -1,0 +1,22 @@
+# Images/text #
+*.pdf
+*.jpg
+*.png
+
+
+# cache #
+*.pcm
+*.h
+*.so
+*.d
+
+# Directories #
+ntup/
+merged/
+sigint/
+wfoutput/
+fitpdf/
+__pycache__/
+
+# other
+*.root
