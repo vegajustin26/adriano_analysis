@@ -7,9 +7,11 @@ This repo is the data analysis pipeline needed to process, visualize, and extrac
 
 ## Analysis
 `FEBDataConverterV4.C` - convert binary output from DAQ into a root file in DRCEvent format
+
 `data_convert.C` - basically runs FEBDataConverter in a loop and has some form of error handling, just in case FEBDataConverter crashes
 
-WaveformFEBV1.C - visualize waveforms of up to 32 channels of the DAQ given a DRCEvent .root file
+`WaveformFEBV1.C` - visualize waveforms of up to 32 channels of the DAQ given a DRCEvent .root file
+
 `generate_plots.C` - loops WaveformFebV1
 
 `Waveforms_OutputFEBV1.C` - basically does the same thing as WaveformFEBV1, but with additional channel support and some useful event filtering
